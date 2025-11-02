@@ -1,5 +1,4 @@
 # SAMP RP NAMES GENERATOR
-````markdown
 # 🎮 Samp RP Names Generator
 
 **Samp RP Names Generator** — программа для генерации случайных имён и фамилий в формате **SAMP RP (San Andreas Multiplayer)**. This tool generates random names and surnames in SAMP RP style, helping players quickly create realistic RP nicknames.
@@ -25,7 +24,7 @@
 ### 🪟 Windows
 1. установи файл по ссылке: https://github.com/veryverybadly/SampRpNamesGenerator/releases/tag/Windows
 2. Запусти .exe файл
-````
+
 
 3. Установи зависимости / Install dependencies (if any):
 
