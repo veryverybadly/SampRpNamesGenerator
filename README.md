@@ -22,47 +22,9 @@
 ## 🚀 Установка и запуск / Installation and Usage
 
 ### 🪟 Windows
-1. установи файл по ссылке: https://github.com/veryverybadly/SampRpNamesGenerator/releases/tag/Windows
-2. Запусти .exe файл
+1. установи файл по ссылке: https://github.com/veryverybadly/SampRpNamesGenerator/releases/tag/Windows / download
+2. Запусти .exe файл / start exe file
 
-
-3. Установи зависимости / Install dependencies (if any):
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Запусти программу / Run the program:
-
-   ```bash
-   python samp_name_generator.py
-   ```
-
-Чтобы собрать `.exe` / To build `.exe`:
-
-```bash
-pyinstaller --onefile --noconsole samp_name_generator.py
-```
-
-Файл появится в папке `dist/` / The file will appear in the `dist/` folder.
-
-### 🐧 Linux
-
-```bash
-sudo apt install python3 python3-pip
-pip install pyinstaller
-pyinstaller --onefile samp_name_generator.py
-./dist/samp_name_generator
-```
-
----
-
-## 💡 Примеры / Example
-
-**CLI пример / CLI example:**
-
-```bash
-python samp_name_generator.py --cli -n 10 --nationality mixed
-```
 
 **Результат / Output:**
 
@@ -77,7 +39,7 @@ Kevin_Walker
 
 ## 🧑‍💻 Автор / Author
 
-Разработчик / Developer: **Alexander / Swar_Dev**
+Разработчик / Developer: **Alexander / veryverybadly**
 GitHub: [https://github.com/veryverybadly](https://github.com/veryverybadly)
 
 ---
