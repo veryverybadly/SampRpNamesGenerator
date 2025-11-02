@@ -87,8 +87,3 @@ GitHub: [https://github.com/veryverybadly](https://github.com/veryverybadly)
 
 Проект распространяется под лицензией **MIT License**. / Distributed under the **MIT License**.
 
-```
-
-
-Хочешь, чтобы я так сделал?
-```
